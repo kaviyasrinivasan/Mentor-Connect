@@ -142,7 +142,7 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url('D:\sih\internal hackathon\frontend\public\bg.png');
+  background-image: url('\bg.png');
   background-size: cover; 
   background-position: center; 
   background-repeat: no-repeat; 
@@ -263,7 +263,7 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url('D:\sih\internal hackathon\frontend\public\bg.png');
+  background-image: url('styles.css\bg.png');
   background-size: cover; 
   background-position: center; 
   background-repeat: no-repeat; 
